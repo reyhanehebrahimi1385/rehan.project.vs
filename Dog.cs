@@ -10,21 +10,22 @@ namespace anima
     {
         public void Walk()
         {
-            Console.WriteLine("سگ در حال دویدن");
+            Console.WriteLine("the dog is running");
         }
         public void Eat()
         {
-            Console.WriteLine("سگ استخوان میخورد ");
+            Console.WriteLine("the dog easta bone ");
         }
         public void Sleep()
         {
-            Console.WriteLine("توله سگ ها به خواب بیشتری نساز دارند");
+            Console.WriteLine("puppies need more sleep");
         }
         public void MakeSound()
         {
-            Console.WriteLine("سگ می گوید :واق واق ");
+            Console.WriteLine("the dog says :woof woof");
         }
     }
 }
 
  
+
