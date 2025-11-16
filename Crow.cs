@@ -10,20 +10,21 @@ namespace anima
     {
         public void Walk()
         {
-            Console.WriteLine("کلاغ ها میپرند");
+            Console.WriteLine("crows fly");
         }
         public void Eat()
         {
-            Console.WriteLine("کلاغ ها حشرات و گوشت لاشه میخورند");
+            Console.WriteLine("crows eat insects and carrion");
         }
         public void Sleep()
         {
-            Console.WriteLine("در حفره ها میخوابند");
+            Console.WriteLine("the sleep in a cavity");
         }
         public void MakeSound()
         {
-            Console.WriteLine("کلاغ می گوید: قار قار");
+            Console.WriteLine("the crow says: caw caw");
         }
     }
 }
+
 
