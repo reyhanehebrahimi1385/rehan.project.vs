@@ -10,21 +10,22 @@ namespace anima
     {
         public void Walk()
         {
-            Console.WriteLine("گربه به آرامی راه می رود");
+            Console.WriteLine("teh cat walks slowly");
         }
         public void Eat()
         {
-            Console.WriteLine("گربه گوشت پخته میخورد");
+            Console.WriteLine("the cat eats cooked meat");
         }
         public void Sleep()
         {
-            Console.WriteLine("گربه حای نرم میخوابد");
+            Console.WriteLine("the cat sleeps in a soft place");
         }
         public void MakeSound()
         {
-            Console.WriteLine("گربه می گوید : میو میو");
+            Console.WriteLine("cat says :meow meow");
         }
     }
 }
 
   
+
