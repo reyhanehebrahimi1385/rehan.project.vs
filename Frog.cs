@@ -10,19 +10,20 @@ namespace anima
     {
         public void Walk()
         {
-            Console.WriteLine("قورباغه می پرد");
+            Console.WriteLine("the frog jumps");
         }
         public void Eat()
         {
-            Console.WriteLine(" قوباغه حشره میخورد");
+            Console.WriteLine("the frog eats insects");
         }
         public void Sleep()
         {
-            Console.WriteLine("قورباغه در آب میخوابد");
+            Console.WriteLine("the frog sleep in the water");
         }
         public void MakeSound()
         {
-            Console.WriteLine("قورباغه می گوید:قور قور");
+            Console.WriteLine("the frog says :croak croak");
         }
     }
 }
+
